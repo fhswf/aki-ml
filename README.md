@@ -13,3 +13,15 @@ py -m venv .venv
 
 pip install -r requirements.txt
 ```
+
+# Development
+
+## Filter Jupyter Notebook
+
+The Jupyter Notebooks save their output and other metadata. By using **nb-clean** the jupyter notebook is stripped of this output and metadata.
+
+```bash
+nb-clean clean path_to_file # Manual cleaning
+```
+
+
