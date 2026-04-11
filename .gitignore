@@ -214,3 +214,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Image Folder as the author added code to save images in the images folder, it is recommended to ignore this folder to avoid committing large files to version control.
+images/
+
+# Persistent model files
+*.pkl
+
+# data set files
+datasets/
+*.csv
