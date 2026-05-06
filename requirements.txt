@@ -4,3 +4,4 @@ matplotlib
 scikit-learn
 ipykernel
 nb-clean
+requests
