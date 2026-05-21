@@ -5,3 +5,4 @@ scikit-learn
 ipykernel
 nb-clean
 requests
+pydot
